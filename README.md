@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Fabio Gomes</h1>
-<h3 align="center">Apaixonado pela ciência e analise de dados no Mercado Financeiro</h3>
+<h3 align="center">Apaixonado pela Ciência e Analise de Dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, R e Machine Learning**
 
